@@ -1,2 +1,2 @@
 # configuration
-#This is configuration repo for spring application
+#This is configuration repo for spring applications
